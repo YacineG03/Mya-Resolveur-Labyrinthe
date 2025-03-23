@@ -46,10 +46,10 @@ Ce projet a été développé dans le cadre d’un travail académique pour dém
 ### Format des fichiers de labyrinthe
 Les fichiers texte doivent respecter le format suivant :
 
-* # : Mur
-* = : Passage
-* S : Point de départ
-* E : Point d’arrivée
+*# : Mur* 
+*= : Passage*
+*S : Point de départ*
+*E : Point d’arrivée*
 
 ### Détails techniques
  Algorithmes utilisés
